@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+📝 Finalized "About Me" (Copy & Paste)Headline: Full Stack Developer | Backend & DevOps Enthusiast | IT @ BUITEMSHi! I'm Hasnain, an IT student at BUITEMS (Semester 6). I am a Full Stack Developer focused on building high-performance, scalable web applications. I enjoy architecting backends that are not only functional but also optimized for speed and reliability.🛠 Backend Power: Expert in Python (Django, FastAPI) and Node.js (Express).📦 Containerization & Caching: Using Docker for environment parity and Redis for lightning-fast performance.🌐 Server Management: Configuring Nginx as a reverse proxy and load balancer to ensure high availability.💾 Database Design: Skilled in PostgreSQL, MySQL, SQLite, and MongoDB.⚛️ Frontend: Developing interactive UIs with React and managing complex state with Redux.🛠 Skills Grid for GPRMOrganize your icons in GPRM using these categories to highlight your Nginx and DevOps knowledge:CategorySkillsFrontendReact, Redux, JavaScriptBackendPython, Django, FastAPI, Node.js, ExpressDatabasesPostgreSQL, MongoDB, MySQL, SQLite, RedisDevOps & ServersDocker, Nginx, Git, GitHub🏗 Why Nginx Matters in Your StackSince you use Docker and multiple backend frameworks, Nginx acts as the "entry point" for your applications. It sits in front of your Docker containers, directing traffic to your FastAPI or Node.js services.💡 Suggested "Top Project" to FeatureSince you have this specific stack, you should create a repository titled something like "Ultimate-Stack-Boilerplate" that includes:A FastAPI or Node.js backend.A Redis cache layer.PostgreSQL as the primary DB.An Nginx configuration file.A Docker Compose file to run it all with one command.
 
-<!--
-**tafazul07/tafazul07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tafazul07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tafazul07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tafazul07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=tafazul07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
